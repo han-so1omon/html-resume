@@ -1,7 +1,7 @@
 # html-resume
 [My resume](https://errcsool.com/static/SolomonResume-567cf0469f5e112f60af0329d4fb6983.pdf)
 
-A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. Thank you to [mnjul](https://github.com/mnjul/html-resume):
+A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. Thank you to [mnjul](https://github.com/mnjul/html-resume)
 
 # Compatibility and Known Issues/Limitations
 * I have only tested this project on latest release version of Firefox (56 as of writing) and Google Chrome (61) on macOS 10.13 (High Sierra).
