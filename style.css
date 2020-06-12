@@ -328,6 +328,13 @@ li{
   margin-top: 0.5in; 
 }
 
+#qr img{
+    margin-top: 0.1in;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #contact ul{
   margin-top: 0.05in;
   padding-left: 0;
