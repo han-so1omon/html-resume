@@ -9,7 +9,7 @@
 
 :root{
   --page-width: 8.5in;
-  --page-height: 11in;
+  --page-height: 22in;
   --main-width: 6.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
@@ -33,7 +33,7 @@ body{
   width: var(--page-width);
   height: var(--page-height);
   margin: 0;
-  font-family: "Open Sans", sans-serif; 
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
   line-height: 1.3;
   color: #444;
@@ -244,7 +244,7 @@ li{
 }
 
 .main-block:not(.concise) .details div{
-  margin: 0.18in 0 0.1in 0; 
+  margin: 0.18in 0 0.1in 0;
 }
 
 .main-block:not(.concise) .blocks:last-child .details div{
@@ -325,7 +325,7 @@ li{
 }
 
 .side-block{
-  margin-top: 0.5in; 
+  margin-top: 0.5in;
 }
 
 #qr img{
@@ -373,4 +373,11 @@ li{
   font-family: "Source Code Pro";
   font-weight: 400;
   font-style: normal;
+}
+
+@media print {
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
 }
