@@ -1,5 +1,5 @@
 # html-resume
-[My resume](https://errcsool.com/static/SolomonResume-d87d3dee9e73c4c41a4635f94ebc7705.pdf)
+[My resume](https://errcsool.com/SolomonResume.pdf)
 
 A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. Thank you to [mnjul](https://github.com/mnjul/html-resume)
 
